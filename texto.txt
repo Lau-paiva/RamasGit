@@ -1,2 +1,2 @@
 segunda parte git
-texto rama 2 nuevo cambio
+texto rama 2 nuevo cambiogit status
